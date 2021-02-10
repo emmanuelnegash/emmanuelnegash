@@ -42,7 +42,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 - 👨🏽‍💻 I’m currently working working as a Full Stack Developer @ [Rohatec Software Solutions](http://www.rohatec.com)
 - 🌱 I’m currently learning Neural Network-ML,Python,Django,and TypeScript.
-- 👀 To be completely honest here: These 📺 Youtube Dev Channels makes me to feel superhero 👉👉👉👉👉👉
+- 👀 To be completely honest here: These 📺 Youtube Dev Channels makes me to feel superhero   👉👉👉👉👉👉
 - 😎 I'm working on an API for 🎧🎷Ethiopian Music Recommedation System.🤞 
 <!--- 🤔 I’m working on my future MERN projects.-->
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
