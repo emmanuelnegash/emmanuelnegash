@@ -26,7 +26,7 @@
 <p>
 A Skilled FullStack Software Developer 🚀 from 🇪🇹 Ethiopia . Always working on some project or learning something new!
 <br>
-Stacks I have worked with : MERN , React+Firebase , ASP.NET Core + React  , React+React Redux.
+Stacks I have worked with : Android Java, Spring Boot, MERN, React+React Redux.
 <br>  
 Things I am currently experimenting with : Next.js ,Backbone.js ,typescript, ...
 <br>
@@ -41,15 +41,12 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working working as a Full Stack Developer @ [Rohatec Software Solutions](http://www.rohatec.com)
-- 🌱 I’m currently learning Neural Network-ML,Python,Django,and TypeScript.
+- 🌱 I’m currently learning Python,Django,Neural Network-ML,and TypeScript.
 - 👀 To be completely honest here: These 📺 Youtube Dev Channels makes me to feel superhero   👉👉👉👉👉👉
 - 😎 I'm working on an API for 🎧🎷Ethiopian Music Recommedation System.🤞 
-<!--- 🤔 I’m working on my future MERN projects.-->
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fact: I sleep at 12 pm🙃. -->
 - 🎿 Hobbies other than coding : Reading blogs about Tech , Watching ⚽Liverpool FC games.
 - 📫 How to reach me:emmanuelvbc@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1JUeUEy9ofn6wx_0JcNcH_Z-ti_2i7Cve/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
 
@@ -61,7 +58,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Angular](https://img.shields.io/badge/Angular-MVC%20Framework-%23e61f00)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
