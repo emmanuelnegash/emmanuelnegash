@@ -40,7 +40,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working working as a Full Stack Developer @ [Rohatec Software Solutions](http://www.rohatec.com)
+- 👨🏽‍💻 I’m currently working working as a Software Engineer @ [Digital Green](http://www.digitalgreen.org)
 - 🌱 I’m currently learning Python,Django,Neural Network-ML,and TypeScript.
 - 👀 To be completely honest here: These 📺 Youtube Dev Channels makes me to feel superhero   👉👉👉👉👉👉
 - 😎 I'm working on an API for 🎧🎷Ethiopian Music Recommedation System.🤞 
