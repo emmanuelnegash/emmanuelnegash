@@ -25,7 +25,7 @@
 <p>
 A Skilled Software Engineer 🚀 from 🇪🇹 Ethiopia . Always working on some project or learning something new!
 <br>
-Stacks I have worked with : Python,Javascript, Django,Node JS, Cassandra,Postgresql, Mysql, React+React Redux,Material UI.
+Stacks I have worked with : Python,Java, Javascript, Django,Node JS, Cassandra,Postgresql, Mysql, React+React Redux,Material UI.
 <br>  
 Things I am currently experimenting with : Next.js ,Backbone.js ,typescript, ...
 <br>
