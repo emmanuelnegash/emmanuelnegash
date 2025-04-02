@@ -23,28 +23,30 @@
 <br/>
 
 <p>
-A Skilled Software Engineer 🚀 from 🇪🇹 Ethiopia . Always working on some project or learning something new!
-<br>
-Stacks I have worked with : Python,Java, Javascript, Django,Node JS, Cassandra,Postgresql, Mysql, React+React Redux,Material UI.
-<br>  
-Things I am currently experimenting with : Next.js ,Backbone.js ,typescript, ...
-<br>
-I'm an Open Source Contributor ❤️.
+  🚀 Passionate Software Engineer | Innovating, Scaling, and Building for the Future  
+  <br><br>
+  Experienced in developing high-performance, scalable applications with modern technologies. Constantly evolving with the latest trends in software engineering.  
+  <br><br>
+  <strong>Tech Stack:</strong> Python, Java, JavaScript, Django, Node.js, Cassandra, PostgreSQL, MySQL, React + Redux, Material UI.  
+  <br><br>
+  <strong>Currently Exploring:</strong> Next.js, Backbone.js, TypeScript, Microservices, AI/ML integrations, and Cloud-Native development.  
+  <br><br>
+  <strong>What I Bring:</strong> Problem-solving mindset, clean & scalable code, DevOps familiarity, and a passion for open-source contributions.  
+  <br><br>
+  Open Source Contributor ❤️ | Always Learning, Always Building  
 </p>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/UueokqZ4oo68JcKB1p/giphy.gif" />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
   
-### ✨ Quick Facts
+### ✨ Quick Facts  
 
-- 👨🏽‍💻 I’m currently working as a Software Engineer
- @ [Digital Green](http://www.digitalgreen.org) and contributing to life changing open source projects
-- 🌱 I’m currently learning Go,Neural Network-ML,and TypeScript.
-- 👀 To be completely honest here: These 📺 Youtube Dev Channels makes me to feel superhero   👉👉👉👉👉👉
-- 😎 I'm working on an API for 🎧🎷Ethiopian Music Recommedation System.🤞
-<!--- ⚡️ Fact: I sleep at 12 pm🙃. -->
-- 🎿 Hobbies other than coding : Reading blogs about Tech , Watching ⚽Liverpool FC games.
-- 📫 How to reach me:emmanuelvbc@gmail.com
+- 👨🏽‍💻 Currently working as a Software Engineer @ [Digital Green](http://www.digitalgreen.org), building impactful solutions and contributing to life-changing open-source projects.  
+- 🌱 Always learning! Currently exploring Go, Neural Networks & Machine Learning, and TypeScript.  
+- 🎬 My go-to Dev YouTube channels keep me inspired and leveling up my skills! 🚀  
+- 🎧 Currently developing an API for an Ethiopian Music Recommendation System—blending tech with culture! 🎷  
+- 🎿 Beyond coding: Tech blogging, exploring AI innovations, and passionately supporting ⚽ Liverpool FC.  
+- 📫 Let’s connect: **emmanuelvbc@gmail.com**  
 
 ### 🛠️ Languages and Tools
 
