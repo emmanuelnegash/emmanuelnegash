@@ -27,9 +27,9 @@
   <br><br>
   Experienced in developing high-performance, scalable applications with modern technologies. Constantly evolving with the latest trends in software engineering.  
   <br><br>
-  <strong>Tech Stack:</strong> Python, Java, JavaScript, Django, Node.js, Cassandra, PostgreSQL, MySQL, React + Redux, Material UI.  
+  <strong>Tech Stack:</strong>  Python,Java, TypeScript, Microservices, AI/ML integrations, , JavaScript, Next.js,Django, Node.js, Cassandra, PostgreSQL, MySQL, React + Redux, Material UI.  
   <br><br>
-  <strong>Currently Exploring:</strong> Next.js, Backbone.js, TypeScript, Microservices, AI/ML integrations, and Cloud-Native development.  
+  <strong>Currently Exploring:</strong> Backbone.js,, and Cloud-Native development.  
   <br><br>
   <strong>What I Bring:</strong> Problem-solving mindset, clean & scalable code, DevOps familiarity, and a passion for open-source contributions.  
   <br><br>
