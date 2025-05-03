@@ -29,8 +29,6 @@
   <br><br>
   <strong>Tech Stack:</strong>  Python,Java, TypeScript, Microservices, AI/ML integrations, , JavaScript, Next.js,Django, Node.js, Cassandra, PostgreSQL, MySQL, React + Redux, Material UI.  
   <br><br>
-  <strong>Currently Exploring:</strong> Backbone.js,, and Cloud-Native development.  
-  <br><br>
   <strong>What I Bring:</strong> Problem-solving mindset, clean & scalable code, DevOps familiarity, and a passion for open-source contributions.  
   <br><br>
   Open Source Contributor ❤️ | Always Learning, Always Building  
