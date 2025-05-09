@@ -23,7 +23,7 @@
 <br/>
 
 <p>
-  🚀 Passionate Software Engineer | Innovating, Scaling, and Building for the Future  
+  🚀 Passionate AI Software Engineer | Innovating, Scaling, and Building for the Future  
   <br><br>
   Experienced in developing high-performance, scalable applications with modern technologies. Constantly evolving with the latest trends in software engineering.  
   <br><br>
