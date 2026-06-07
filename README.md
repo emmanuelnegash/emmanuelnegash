@@ -165,7 +165,9 @@ I am treating **January 2026 forward** as the public baseline for my GitHub stor
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelnegash&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=Full-Stack%20%2B%20AI%20Engineering%20Signal" alt="Amanuel's GitHub stats" />
+  <img src="https://img.shields.io/badge/Git-small%20commits%20%2B%20clear%20branches-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git workflow" />
+  <img src="https://img.shields.io/badge/GitHub-PRs%20%2B%20reviews%20%2B%20CI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub collaboration" />
+  <img src="https://img.shields.io/badge/Stars-community%20signal-F59E0B?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Stars and community signal" />
 </p>
 
 ## Public Edge
