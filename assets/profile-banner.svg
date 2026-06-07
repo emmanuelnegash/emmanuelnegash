@@ -1,0 +1,74 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Amanuel Negash Tiruneh - Senior Full-Stack Software Engineer</title>
+  <desc id="desc">A professional dark gradient banner for AI agents, full-stack software engineering, and cloud-native systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.45" stop-color="#0B3B56"/>
+      <stop offset="1" stop-color="#3B1E75"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 85) rotate(125) scale(310 210)">
+      <stop stop-color="#38BDF8" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(225 290) rotate(-12) scale(360 170)">
+      <stop stop-color="#A78BFA" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowB)"/>
+
+  <path d="M740 92 C825 32 960 52 1032 132 C1100 207 1085 297 1005 317 C925 337 842 285 798 222 C756 162 692 126 740 92Z" fill="#0EA5E9" fill-opacity="0.12"/>
+  <path d="M782 120 C854 82 953 96 1008 152 C1058 204 1043 268 982 283 C920 299 859 265 825 219 C791 173 742 141 782 120Z" fill="#8B5CF6" fill-opacity="0.18"/>
+
+  <g opacity="0.9" filter="url(#softGlow)">
+    <circle cx="835" cy="139" r="7" fill="#38BDF8"/>
+    <circle cx="925" cy="106" r="5" fill="#A78BFA"/>
+    <circle cx="1015" cy="174" r="6" fill="#22C55E"/>
+    <circle cx="958" cy="251" r="5" fill="#F59E0B"/>
+    <path d="M835 139 L925 106 L1015 174 L958 251 L835 139Z" stroke="#E0F2FE" stroke-opacity="0.62" stroke-width="2"/>
+    <path d="M925 106 L958 251" stroke="#E0F2FE" stroke-opacity="0.24" stroke-width="2"/>
+  </g>
+
+  <text x="64" y="82" fill="#67E8F9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    2026 BUILD MODE
+  </text>
+  <text x="64" y="132" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="800">
+    Amanuel Negash Tiruneh
+  </text>
+  <text x="64" y="178" fill="#DDEBFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">
+    Senior Full-Stack Software Engineer
+  </text>
+  <text x="64" y="220" fill="#B9D7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">
+    AI agents . cloud-native backends . product systems . reliability
+  </text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">
+    <rect x="64" y="262" width="118" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.22"/>
+    <text x="88" y="284" fill="#FFFFFF">Python</text>
+    <rect x="194" y="262" width="142" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.22"/>
+    <text x="218" y="284" fill="#FFFFFF">JavaScript</text>
+    <rect x="348" y="262" width="94" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.22"/>
+    <text x="374" y="284" fill="#FFFFFF">Java</text>
+    <rect x="454" y="262" width="140" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.22"/>
+    <text x="478" y="284" fill="#FFFFFF">TypeScript</text>
+    <rect x="606" y="262" width="90" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.22"/>
+    <text x="635" y="284" fill="#FFFFFF">AWS</text>
+    <rect x="708" y="262" width="132" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.22"/>
+    <text x="733" y="284" fill="#FFFFFF">Agents</text>
+  </g>
+</svg>
