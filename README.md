@@ -1,90 +1,96 @@
-### Hi there 👋, I'm [Amanuel Negash](https://github.com/emmanuelnegash) 👨‍💻
+<h1 align="center">Amanuel Negash</h1>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/amanuel-negash-tiruneh/">
-  <img align="left" alt="Amanuel's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://t.me/emmanuel_ng">
-  <img align="left" alt="Amanuel's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://twitter.com/emmanuel_ETH">
-  <img align="left" alt="Amanuel's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:emmanuelvbc@gmail.com">
-  <img align="left" alt="Amanuel's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br />
-
-<br/>
-
-<p>
-  🚀 Passionate AI Software Engineer | Innovating, Scaling, and Building for the Future  
-  <br><br>
-  Experienced in developing high-performance, scalable applications with modern technologies. Constantly evolving with the latest trends in software engineering.  
-  <br><br>
-  <strong>Tech Stack:</strong>  Python,Java, TypeScript, Microservices, AI/ML integrations, , JavaScript, Next.js,Django, Node.js, Cassandra, PostgreSQL, MySQL, React + Redux, Material UI.  
-  <br><br>
-  <strong>What I Bring:</strong> Problem-solving mindset, clean & scalable code, DevOps familiarity, and a passion for open-source contributions.  
-  <br><br>
-  Open Source Contributor ❤️ | Always Learning, Always Building  
+<p align="center">
+  <strong>Software Engineer building AI-backed products, resilient APIs, and data-rich product systems.</strong>
 </p>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/UueokqZ4oo68JcKB1p/giphy.gif" />
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-  
-### ✨ Quick Facts  
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanuel-negash-tiruneh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Amanuel%20Negash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:emmanuelvbc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-emmanuelvbc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/emmanuelnegash">
+    <img src="https://img.shields.io/badge/GitHub-emmanuelnegash-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-- 👨🏽‍💻 Currently working as a Software Engineer @ [Digital Green](http://www.digitalgreen.org), building impactful solutions and contributing to life-changing open-source projects.  
-- 🌱 Always learning! Currently exploring Go, Neural Networks & Machine Learning, and TypeScript.  
-- 🎬 My go-to Dev YouTube channels keep me inspired and leveling up my skills! 🚀  
-- 🎧 Currently developing an API for an Ethiopian Music Recommendation System—blending tech with culture! 🎷  
-- 🎿 Beyond coding: Tech blogging, exploring AI innovations, and passionately supporting ⚽ Liverpool FC.  
-- 📫 Let’s connect: **emmanuelvbc@gmail.com**  
+I build systems where product experience, backend reliability, and practical AI meet. My work spans AI assistants, logistics pricing, civic transparency, diaspora community products, SACCO/fintech infrastructure, agricultural data tools, and operational dashboards.
 
-### 🛠️ Languages and Tools
+Currently, I work as a Software Engineer at [Digital Green](https://www.digitalgreen.org/), and I keep shipping product-grade systems across Python, Java, TypeScript, React Native, FastAPI, Spring Boot, Postgres, Redis, and cloud-native infrastructure.
 
-![Python](https://img.shields.io/badge/Python-Django-yellowgreen)
-![Django](https://img.shields.io/badge/Django-Framework-green)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Cassandra](https://img.shields.io/badge/cassandra-database-9cf)
-![Postgresql](https://img.shields.io/badge/postgresql-Database-blue)
-![Mysql](https://img.shields.io/badge/mysql-Database-orange)
-![Sequelize](https://img.shields.io/badge/sequelize%20-ORM-blue)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+## Engineering Focus
 
-### 👣 Next Steps
+- AI-enabled workflows: RAG, assistant orchestration, retrieval pipelines, approval gates, and human-in-the-loop automation.
+- Backend and platform engineering: REST APIs, event durability, queues, idempotency, audit trails, pricing engines, billing flows, and production smoke tests.
+- Product engineering: Expo/React Native mobile apps, Next.js/React dashboards, maps, dense data interfaces, authenticated workflows, and role-aware UX.
+- Domain software: agriculture, logistics, public accountability, Ethiopian community finance, SACCO operations, and diaspora social products.
 
-_Since you don't want to leave my profile just yet! Here are some things you can do :_
+## Selected Product Work
 
-<!--
-❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
-or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:aman.atg001@gmail.com)
--->
+| Product | What it does | Engineering shape |
+|---|---|---|
+| **Etharon / Personal AI Executive Assistant** | AI-assisted assistant for booking, workflow execution, approvals, and operational state tracking. | TypeScript monorepo, Expo, Fastify services, Postgres, Redis/BullMQ, Drizzle, outbox patterns, reconciliation workers, explicit readiness states. |
+| **Delivargo Quote** | Profit-aware quoting platform for independent cargo van and delivery drivers. | Expo React Native, FastAPI, Postgres/PostGIS, Redis, Railway deployment, pricing engine, driver auth, quote history, public quote pages. |
+| **Mizan** | Public accountability platform for Ethiopian public projects, evidence, verification, feedback, and transparency trails. | Next.js, FastAPI, Postgres/PostGIS, Redis, MinIO, Atlas analytics, launch-readiness gates, tamper-evident event trail. |
+| **Selam** | Trusted Habesha diaspora product for events, groups, Ekub, Idir, places, dating, and verified identity. | Expo/mobile-first product architecture, typed API direction, identity-first UX, community graph, design-token quality checks. |
+| **OmniSACCOs** | AI-native multi-tenant operating system for Ethiopian SACCOs. | Java 21, Spring Boot, Gradle Kotlin DSL, Fineract baseline, preview deployment path, cost-conscious cloud architecture. |
+| **Manage Dashboard** | Operations dashboard for project, role, inventory, receipt, map, auth, and reporting workflows. | React, Vite, Firebase, Firestore/Auth/Storage, role provisioning, dashboards, charts, forms, production deploy checks. |
 
-<!--❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
-if you are on a similar path as mine.
--->
+## Public Code Highlights
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Amanuel_Negash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanuel-negash-tiruneh//)](https://www.linkedin.com/in/amanuel-negash-tiruneh/)
+| Repository | Focus | Stack |
+|---|---|---|
+| [PDFDB-Ask-RAG](https://github.com/emmanuelnegash/PDFDB-Ask-RAG) | Ask questions over PDF/database content using a retrieval-augmented workflow. | Python, FastAPI, LangChain, Chroma, PyPDF2, embeddings. |
+| [ndtc-backend-submission](https://github.com/emmanuelnegash/ndtc-backend-submission) | Full-stack campaign tracker with candidates, events, REST APIs, and metrics. | TypeScript, Next.js, Express, SQLite. |
+| [Longest-Substring-Visualization](https://github.com/emmanuelnegash/Longest-Substring-Visualization) | Algorithm visualization for the longest substring without repeating characters. | Data structures, algorithm explanation, visualization. |
+| [EQUB](https://github.com/emmanuelnegash/EQUB) | Ethiopian community saving/payment software concept. | Community finance, payments, local-context product thinking. |
 
-----------------------------------------------------------
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend, Data, and AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frontend, Mobile, and Cloud**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## How I Build
+
+- Start with the real user workflow, then make the backend tell the truth.
+- Treat reliability as product quality: queues, projections, audits, smoke tests, and clear failure states.
+- Keep interfaces useful under pressure: dense, readable, role-aware, and built for repeated use.
+- Use AI where it creates leverage, not noise: retrieval, automation, workflow reasoning, and decision support.
+- Build with local context: culture, language, trust, cost, and operating constraints belong inside the software.
+
+## Connect
+
+I am interested in AI product engineering, backend/platform work, mobile products, social-impact technology, and systems that turn messy real-world operations into reliable software.
+
+The best place to reach me is [LinkedIn](https://www.linkedin.com/in/amanuel-negash-tiruneh/) or email at [emmanuelvbc@gmail.com](mailto:emmanuelvbc@gmail.com).
