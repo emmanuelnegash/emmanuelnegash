@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/amanuel-negash-tiruneh/">
     <img src="https://img.shields.io/badge/LinkedIn-Amanuel%20Negash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:emmanuelvbc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-emmanuelvbc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:amanuel.ng@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-amanuel.ng%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/emmanuelnegash">
     <img src="https://img.shields.io/badge/GitHub-emmanuelnegash-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -24,13 +24,17 @@ From **January 2026 forward**, my public engineering story is centered on agenti
 
 I am focused on AI agents that can use tools, retrieve private context, remember workflow state, respect permissions, ask for approval, and leave behind enough trace data that engineers and users can understand what happened. I am also focused on the production side of that promise: APIs that do not drift, queues that absorb pressure, dashboards that reveal truth, and cloud systems that can be operated by a real team.
 
+<p align="center">
+  <img src="assets/agentic-flow.svg" alt="Agentic full-stack delivery flow" width="100%" />
+</p>
+
 ## Roles I Am Built For
 
 **Senior Full-Stack Software Engineer**  
-Own product features end to end: React/Next.js or mobile surfaces, backend APIs, data models, auth, testing, deployment, and production follow-through.
+Own product features end to end: product UX, React/Next.js or mobile surfaces, backend APIs, data models, authentication, testing, deployment, and production follow-through.
 
 **AI Product Engineer / Agentic AI Engineer**  
-Build RAG, tool-calling agents, human-in-the-loop flows, memory, evaluations, tracing, model integration, and workflow automation around real business systems.
+Build RAG, tool-calling agents, human-in-the-loop flows, memory, evaluations, tracing, model integration, and workflow automation around real business systems instead of demos that stop at chat.
 
 **Backend / Platform Engineer**  
 Design services, event-driven systems, queues, caching, database schemas, observability, CI/CD, rollback paths, and security boundaries that hold up under production pressure.
@@ -46,6 +50,7 @@ Ship on AWS with containers, serverless, IAM/KMS, infrastructure as code, monito
 - Own cloud delivery on AWS: ECS, EKS, Lambda, S3, RDS, DynamoDB, SQS, SNS, IAM, KMS, CloudWatch, API Gateway, Docker, Kubernetes, and Terraform.
 - Improve production quality with automated tests, CI/CD, structured logging, Sentry, Prometheus, Grafana, audit logs, dependency scanning, and incident-ready observability.
 - Turn messy domain workflows into simple product surfaces with clear language, trustworthy state, and measurable operational behavior.
+- Work like a contributor: clear pull requests, readable commits, practical documentation, reviewable architecture decisions, and changes that are easy for a team to maintain.
 
 ## High-Demand Stack
 
@@ -76,6 +81,9 @@ Ship on AWS with containers, serverless, IAM/KMS, infrastructure as code, monito
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llama&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-0F172A?style=for-the-badge&logo=protocols.io&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-2563EB?style=for-the-badge&logo=opensearch&logoColor=white)
+![Evals](https://img.shields.io/badge/Evals-9333EA?style=for-the-badge&logo=pytest&logoColor=white)
+![Tracing](https://img.shields.io/badge/Tracing-0F766E?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logo=readme&logoColor=white)
 ![Tool Calling](https://img.shields.io/badge/Tool%20Calling-0EA5E9?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![Human in the Loop](https://img.shields.io/badge/Human--in--the--Loop-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -109,6 +117,7 @@ Ship on AWS with containers, serverless, IAM/KMS, infrastructure as code, monito
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
@@ -118,6 +127,12 @@ Ship on AWS with containers, serverless, IAM/KMS, infrastructure as code, monito
 My background includes production software work in agriculture, data exchange, registries, logistics, civic transparency, and community finance. The common thread is not the industry. The common thread is responsibility: systems with users, constraints, data, failure modes, and a need for engineering judgment.
 
 I bring the depth expected from backend/platform roles and the range expected from full-stack roles. I can work close to the database, close to the user, and close to the deployment pipeline. That combination is where AI product engineering becomes real.
+
+## Contributor-Grade Delivery
+
+The best engineering teams do not only need someone who can write code. They need someone who can make work easier to understand, review, ship, and operate.
+
+That is the standard I aim for: small enough changes to review, strong enough architecture to scale, practical tests, clear ownership, direct communication, and production behavior that can be observed instead of guessed.
 
 ## GitHub Signal
 
@@ -140,4 +155,4 @@ I want to build AI-heavy products where the work is real: agents that use tools,
 
 I am open to senior full-stack, backend/platform, AI product engineering, cloud-native, and distributed-systems roles.
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/amanuel-negash-tiruneh/) or at [emmanuelvbc@gmail.com](mailto:emmanuelvbc@gmail.com).
+Reach me on [LinkedIn](https://www.linkedin.com/in/amanuel-negash-tiruneh/) or at [amanuel.ng@hotmail.com](mailto:amanuel.ng@hotmail.com).
