@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1020,45:1F6FEB,100:7C3AED&text=Amanuel%20Negash%20Tiruneh&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=42&desc=AI%20Systems%20%7C%20Backend%20Platforms%20%7C%20Cloud%20Reliability&descAlign=50&descAlignY=61&animation=fadeIn" alt="Amanuel Negash Tiruneh" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050B18,45:0E7490,100:7C3AED&text=Amanuel%20Negash%20Tiruneh&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=42&desc=Senior%20Full-Stack%20Software%20Engineer%20%7C%20AI%20Agents%20%7C%20Cloud-Native%20Systems&descAlign=50&descAlignY=62&animation=fadeIn" alt="Amanuel Negash Tiruneh - Senior Full-Stack Software Engineer" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=I+build+systems+that+stay+calm+under+pressure.;AI+workflows.+Resilient+backends.+Cloud-native+platforms.;Java.+Python.+AWS.+Distributed+systems.;Product+thinking+with+production-grade+execution." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Full-stack+engineer+with+a+backend+spine.;I+build+AI+agents+that+connect+to+real+systems.;Python+first.+JavaScript+fast.+Java+solid.;Product+interfaces+%2B+cloud+platforms+%2B+reliable+APIs." alt="Animated engineering profile" />
   </a>
 </p>
 
@@ -20,69 +20,127 @@
   </a>
 </p>
 
-I am a senior software engineer who works at the intersection of **AI-enabled systems, distributed backend platforms, cloud reliability, and product execution**.
+I am a **Senior Full-Stack Software Engineer** who builds from both directions: polished product surfaces on the front, serious backend architecture underneath. My work sits where **AI agents, APIs, cloud systems, data, and human workflow** meet.
 
-Current banner: **Telebaron**.  
-Previous organization: **Digital Green**.  
-The builds below are intentionally separated into **professional systems** and **personal product laboratory** work so the profile is honest, sharp, and easy for recruiters to read.
+I like software that can explain itself: what happened, what state changed, what failed, what recovered, and what a person should trust next.
 
-## Operating System
+## 2026 Build Mode
+
+Since **January 2026**, my engineering energy has been focused on a sharper direction:
 
 ```txt
-role        Senior Software Engineer
-center      Java + Python backend systems, AWS platforms, applied AI, reliability
-range       APIs, queues, data platforms, mobile products, dashboards, secure delivery
-style       calm systems, clear contracts, observable behavior, practical AI
-signal      10+ years building production software across full SDLC
+AI agents that can act with context
+retrieval systems that ground answers in real data
+full-stack products that feel alive, not template-made
+backend platforms that keep their promises under pressure
 ```
 
-## What I Make Possible
+I am building around agentic AI, workflow automation, retrieval, approvals, durable state, and product interfaces that make complex work feel clear. The goal is not to sprinkle AI on top of an app. The goal is to wire intelligence into the system: permissions, memory, queues, search, audit logs, and user decisions.
 
-| Motion | What it means in engineering terms |
-|---|---|
-| **Make systems resilient** | Retries, circuit breakers, bulkheads, graceful degradation, queues, observability, incident response, automated rollback. |
-| **Make AI usable** | RAG, OpenAI APIs, LangChain, Bedrock, pgvector, semantic search, approval gates, grounded workflow state. |
-| **Make cloud production-ready** | AWS ECS, EKS, Lambda, S3, IAM, KMS, SQS, SNS, CloudWatch, API Gateway, Terraform, Docker, Kubernetes. |
-| **Make data actionable** | PostgreSQL, Cassandra, DynamoDB, Redis, OpenSearch, SQL, Pandas, logs, metrics, latency and usage analysis. |
-| **Make products feel alive** | React, Next.js, TypeScript, Expo, React Native, dense dashboards, maps, authenticated flows, mobile-first UX. |
+## How I Think About Systems
 
-## Professional Engineering Record
+```mermaid
+flowchart LR
+  U["Human workflow"] --> UI["Full-stack product surface"]
+  UI --> API["Django / FastAPI / Spring Boot / Express APIs"]
+  API --> A["AI agent layer"]
+  A --> RAG["Retrieval + memory"]
+  A --> Q["Queues + tools"]
+  Q --> DB["Postgres / Redis / search"]
+  DB --> O["Observability + audit trail"]
+  O --> U
+```
 
-| System / Organization | Impact | Engineering Surface |
-|---|---|---|
-| **Farmer.Chat / FarmchatAI - Digital Green** | AI-enabled agricultural advisory platform serving **1M+ users** across regions. Helped reduce advisory cost from about **$35 to $0.35 per user** through automation and platform leverage. | Python, FastAPI, Node.js, Next.js, AWS ECS/Lambda/S3/IAM/KMS/SQS/CloudWatch, Terraform, GitHub Actions, resilient queues, dashboards. |
-| **FarmStack v1/v2 - Digital Green** | Distributed partner data-exchange platform with secure APIs, async processing, observability, and multi-service delivery. | Java, Python, FastAPI, Node.js, Kafka, RabbitMQ, Celery, PostgreSQL, Cassandra, Redis, OpenSearch, DynamoDB. |
-| **Farmer Registry Platform - Ministry of Agriculture / Digital Green** | Offline-first registry with secure field/admin workflows, audit logging, sync, search, and intermittent-connectivity support. | Django, PostgreSQL, Redis, RabbitMQ, Celery, OpenSearch, pgvector, Docker, Kubernetes, AWS. |
-| **3BL contract engineering** | Scalable services, system-design artifacts, secure cloud delivery, CI/CD, automated tests, and production troubleshooting. | Java, Python, AWS, GitHub Actions, IAM/KMS, structured error handling, test pyramid, design review. |
+Good systems have movement. A user takes action, the interface responds, the backend records truth, the agent reasons with context, the queue does the work, and observability keeps the whole thing honest.
 
-## Personal Product Laboratory
+## Agentic AI Direction
 
-These are personal/independent builds and product experiments, not employer projects. They show how I think, prototype, architect, polish, and push ideas toward production.
+I am especially interested in AI systems that can:
 
-| Build | Why I built it | What it demonstrates |
-|---|---|---|
-| **Telebaron product track** | Current independent product direction and engineering banner. | Product strategy, backend architecture, AI-native workflows, execution discipline. |
-| **Logistics quoting system** | Profit-aware quoting for independent delivery drivers with driver cost profiles, backend-authoritative pricing, quote history, and customer-safe share pages. | Expo, React Native, FastAPI, Postgres/PostGIS, Redis, Railway, pricing engine, auth, public quote pages. |
-| **Etharon / Personal AI Executive Assistant** | A trustworthy assistant that can reason about booking workflows, approvals, queue-backed execution, and operational state. | TypeScript monorepo, Expo, Fastify, Postgres, Redis/BullMQ, Drizzle, outbox, reconciliation workers. |
-| **Mizan** | Public accountability platform for evidence, verification, feedback, transparency trails, and launch-readiness gates. | Next.js, FastAPI, Postgres/PostGIS, Redis, MinIO, analytics, tamper-evident event trail. |
-| **Selam** | Trusted Habesha diaspora product concept for events, groups, Ekub, Idir, places, dating, and verified identity. | Expo/mobile-first architecture, typed API direction, identity-first UX, community graph, design-token quality. |
-| **OmniSACCOs** | AI-native multi-tenant operating system direction for Ethiopian SACCO operations. | Java 21, Spring Boot, Gradle Kotlin DSL, Fineract baseline, cloud preview deployment. |
+- retrieve from private knowledge safely
+- use tools with clear boundaries
+- keep workflow state instead of pretending every prompt is new
+- ask for approval before high-impact actions
+- explain decisions through traces, events, and audit logs
+- hand work back to a human when automation is not trustworthy
 
-## Public Repositories
+This is where my full-stack background helps. I can build the assistant surface, the API layer, the data model, the queue, the retrieval path, and the production checks around it.
 
-Some of my strongest engineering work lives in private or product-lab repositories. The public repos below are the visible edge of the larger portfolio.
+## Product Lab
 
-| Repository | Signal | Stack |
-|---|---|---|
-| [PDFDB-Ask-RAG](https://github.com/emmanuelnegash/PDFDB-Ask-RAG) | Retrieval-augmented assistant for asking questions over PDF and database-backed knowledge. | Python, FastAPI, LangChain, Chroma, PyPDF2, embeddings. |
-| [ndtc-backend-submission](https://github.com/emmanuelnegash/ndtc-backend-submission) | Full-stack campaign tracker with candidates, events, metrics, REST APIs, and TypeScript implementation. | TypeScript, Next.js, Express, SQLite. |
-| [Longest-Substring-Visualization](https://github.com/emmanuelnegash/Longest-Substring-Visualization) | Algorithm visualization that makes data-structure reasoning easier to inspect. | Algorithms, visualization, problem solving. |
-| [EQUB](https://github.com/emmanuelnegash/EQUB) | Ethiopian community saving/payment software concept rooted in local financial workflows. | Fintech, payments, community finance. |
+My personal builds are a product laboratory: AI assistants, logistics tools, civic transparency systems, diaspora community products, and finance/community workflows. They are not presented as employer projects. They are how I sharpen architecture, product taste, and execution.
 
-## Engineering Pulse
+The recurring pattern:
+
+```txt
+idea -> prototype -> backend truth -> interface polish -> reliability pass -> production path
+```
+
+Recent themes include AI executive assistance, quote/pricing workflows, public-accountability ledgers, trusted community graphs, and multi-tenant financial operations.
+
+## Professional Foundation
+
+Before this 2026 focus, I built and operated production systems in serious environments, including previous work at **Digital Green**. That foundation gave me the muscle for what I build now:
+
+- Java and Python services in distributed environments
+- AWS infrastructure, CI/CD, observability, and secure delivery
+- large-scale agricultural and partner data platforms
+- AI/RAG integrations connected to real product workflows
+- mentoring, design review, testing strategy, and production troubleshooting
+
+That experience matters because modern AI products still need old-fashioned discipline: clean APIs, durable data, security boundaries, tests, logs, rollback plans, and calm incident response.
+
+## Visual Stack
+
+**Core languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+**AI agents and retrieval**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+
+**Frontend and mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Cloud, data, and reliability**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+## GitHub Motion
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelnegash&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=Amanuel%27s%20Engineering%20Signal" alt="Amanuel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelnegash&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=Full-Stack%20%2B%20AI%20Build%20Signal" alt="Amanuel's GitHub stats" />
 </p>
 
 <p align="center">
@@ -93,61 +151,19 @@ Some of my strongest engineering work lives in private or product-lab repositori
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelnegash&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Motion" alt="Amanuel's GitHub activity graph" />
 </p>
 
-## Stack Constellation
+## Public Edge
 
-**Core languages**
+Some of my strongest work is private or still being shaped in product-lab repositories. The public edge shows pieces of the larger pattern:
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+- [PDFDB-Ask-RAG](https://github.com/emmanuelnegash/PDFDB-Ask-RAG): retrieval over documents and database-backed knowledge
+- [ndtc-backend-submission](https://github.com/emmanuelnegash/ndtc-backend-submission): TypeScript full-stack campaign tracker
+- [Longest-Substring-Visualization](https://github.com/emmanuelnegash/Longest-Substring-Visualization): visual algorithm reasoning
+- [EQUB](https://github.com/emmanuelnegash/EQUB): community finance product thinking
 
-**Backend and distributed systems**
+## What I Want To Build Next
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+I want to keep building AI-heavy products where the work is real: agents that use tools, systems that remember state, dashboards that reveal truth, and backend platforms that make the intelligence dependable.
 
-**Cloud, data, and reliability**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-**AI and product surfaces**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-## The Thread
-
-I like software that has a spine.
-
-Systems should know what happened, why it happened, and what to do when the next dependency fails. AI should not float above the product; it should be wired into state, retrieval, permissions, and human judgment. Interfaces should not just look polished; they should help people move through complex work without losing trust.
-
-That is the kind of engineering I keep returning to.
-
-## Connect
-
-I am open to senior backend, platform, AI product engineering, cloud-native, and distributed-systems roles where execution, architecture, and product judgment all matter.
+I am open to senior full-stack, backend/platform, AI product engineering, cloud-native, and distributed-systems roles.
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/amanuel-negash-tiruneh/) or at [emmanuelvbc@gmail.com](mailto:emmanuelvbc@gmail.com).
