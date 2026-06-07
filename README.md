@@ -132,7 +132,7 @@ I bring the depth expected from backend/platform roles and the range expected fr
 
 ## Selected Project Portfolio
 
-I keep my portfolio selective. Each project below shows a different kind of engineering range: AI product thinking, backend depth, cloud reliability, data movement, mobile/product UX, and systems that need trust.
+Selected work across AI product engineering, backend platforms, cloud reliability, data movement, mobile/product UX, and systems that need trust.
 
 <p align="center">
   <img src="assets/project-portfolio.svg" alt="Selected project portfolio across professional platforms and product-lab systems" width="100%" />
@@ -158,24 +158,24 @@ That is the standard I aim for: small enough changes to review, strong enough ar
 
 ## GitHub Activity
 
-As of **June 7, 2026**, my GitHub contribution calendar shows **2,121 contributions in 2026**. I want this section to show the work directly: daily activity, monthly volume, weekly momentum, and repositories that are part of the current engineering story.
+As of **June 7, 2026**: **2,121 contributions in 2026** across public profile work, active repositories, and private engineering projects.
 
 <p align="center">
   <img src="assets/github-activity-2026-v2.svg" alt="2026 GitHub activity graph with contribution heatmap, monthly bars, weekly trend, and active repositories" width="100%" />
 </p>
 
-## Public Edge
+## Public Repositories
 
-When recruiters open public repositories first, these are the small but useful windows into the larger pattern:
+Representative public work:
 
 - [PDFDB-Ask-RAG](https://github.com/emmanuelnegash/PDFDB-Ask-RAG): RAG over PDFs and database-backed knowledge.
 - [ndtc-backend-submission](https://github.com/emmanuelnegash/ndtc-backend-submission): TypeScript full-stack campaign tracker with Next.js, Express, REST APIs, and SQLite.
 - [Longest-Substring-Visualization](https://github.com/emmanuelnegash/Longest-Substring-Visualization): visual algorithm reasoning.
 - [EQUB](https://github.com/emmanuelnegash/EQUB): community-finance product thinking.
 
-## What I Want To Build Next
+## Current Direction
 
-I want to build AI-heavy products where the work is real: agents that use tools, systems that remember state, dashboards that reveal truth, and backend platforms that make intelligence dependable.
+AI-heavy products with real product depth: agents that use tools, systems that remember state, dashboards that reveal truth, and backend platforms that make intelligence dependable.
 
 I am open to full-stack software engineering, backend/platform, AI product engineering, cloud-native, and distributed-systems roles.
 
