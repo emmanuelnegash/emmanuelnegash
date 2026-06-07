@@ -156,18 +156,12 @@ The best engineering teams do not only need someone who can write code. They nee
 
 That is the standard I aim for: small enough changes to review, strong enough architecture to scale, practical tests, clear ownership, direct communication, and production behavior that can be observed instead of guessed.
 
-## GitHub Signal
+## GitHub Activity
 
-I am treating **January 2026 forward** as the public baseline for my GitHub story: Git discipline, focused commits, reviewable pull requests, CI-backed delivery, and projects that make the engineering direction easy to understand.
-
-<p align="center">
-  <img src="assets/git-2026-delivery-board.svg" alt="2026 Git and GitHub delivery board" width="100%" />
-</p>
+As of **June 7, 2026**, my GitHub contribution calendar shows **2,121 contributions in 2026**. I want this section to show the work directly: daily activity, monthly volume, weekly momentum, and repositories that are part of the current engineering story.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-small%20commits%20%2B%20clear%20branches-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git workflow" />
-  <img src="https://img.shields.io/badge/GitHub-PRs%20%2B%20reviews%20%2B%20CI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub collaboration" />
-  <img src="https://img.shields.io/badge/Stars-community%20signal-F59E0B?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Stars and community signal" />
+  <img src="assets/github-activity-2026.svg" alt="2026 GitHub activity graph with contribution heatmap, monthly bars, weekly trend, and active repositories" width="100%" />
 </p>
 
 ## Public Edge
