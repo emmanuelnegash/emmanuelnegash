@@ -144,7 +144,7 @@ Selected work across AI product engineering, backend platforms, cloud reliabilit
 - **FarmStack data exchange**: distributed microservices for secure partner data exchange, using Java, Python, Node.js, OAuth2/JWT, Kafka, RabbitMQ, PostgreSQL, Cassandra, OpenSearch, Prometheus, Grafana, and Sentry.
 - **Farmer Registry Platform**: offline-first registry workflows with Django, PostgreSQL, Redis, RabbitMQ/Celery, OpenSearch, pgvector, audit logs, role-aware access, Docker/Kubernetes, and AWS delivery.
 
-**Product lab and public edge**
+**Product lab systems**
 
 - **Etharon AI Executive Assistant**: agentic assistant architecture with workflow state, approval gates, Postgres/Drizzle, Redis/BullMQ queues, transactional outbox patterns, reconciliation workers, and mobile/admin surfaces.
 - **Logistics Pricing Platform**: quote-engine and mobile workflow with FastAPI, Expo, React Native, PostGIS, Redis, production API readiness, pricing parity tests, maps, weather, and real deployment constraints.
@@ -152,9 +152,9 @@ Selected work across AI product engineering, backend platforms, cloud reliabilit
 
 ## Contributor-Grade Delivery
 
-The best engineering teams do not only need someone who can write code. They need someone who can make work easier to understand, review, ship, and operate.
+Engineering delivery shaped for review, maintainability, and operations.
 
-That is the standard I aim for: small enough changes to review, strong enough architecture to scale, practical tests, clear ownership, direct communication, and production behavior that can be observed instead of guessed.
+Readable pull requests, practical tests, clear ownership, direct communication, and production behavior that can be observed instead of guessed.
 
 ## GitHub Activity
 
