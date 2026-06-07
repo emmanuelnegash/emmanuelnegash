@@ -1,105 +1,112 @@
-<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">2026 Git and GitHub delivery loop</title>
-  <desc id="desc">A visual delivery diagram starting in January 2026, showing Git branches, commits, pull requests, CI, release, and community signal.</desc>
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">2026 Git and GitHub delivery board</title>
+  <desc id="desc">A clean 2026 GitHub delivery diagram showing issue, branch, commit, pull request, CI, release, and stars.</desc>
   <defs>
-    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#06111F"/>
-      <stop offset="0.5" stop-color="#072B3A"/>
+      <stop offset="0.52" stop-color="#0A2A39"/>
       <stop offset="1" stop-color="#171A2E"/>
     </linearGradient>
-    <linearGradient id="line" x1="210" y1="166" x2="975" y2="166" gradientUnits="userSpaceOnUse">
+    <linearGradient id="rail" x1="98" y1="228" x2="1104" y2="228" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22C55E"/>
-      <stop offset="0.44" stop-color="#38BDF8"/>
+      <stop offset="0.3" stop-color="#38BDF8"/>
+      <stop offset="0.62" stop-color="#A78BFA"/>
       <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000000" flood-opacity="0.28"/>
     </filter>
     <style>
-      .label { font: 700 18px Inter, Segoe UI, Arial, sans-serif; fill: #F8FAFC; }
-      .small { font: 600 13px Inter, Segoe UI, Arial, sans-serif; fill: #B8D4E8; }
-      .tiny { font: 600 12px Inter, Segoe UI, Arial, sans-serif; fill: #88A7BC; }
-      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
-      .flow { stroke-dasharray: 14 14; animation: dash 12s linear infinite; }
-      .node { filter: url(#glow); }
-      @keyframes dash { to { stroke-dashoffset: -180; } }
-      @keyframes pulse {
-        0%, 100% { opacity: 0.72; transform: scale(1); }
-        50% { opacity: 1; transform: scale(1.08); }
-      }
+      .eyebrow { font: 800 16px Inter, Segoe UI, Arial, sans-serif; fill: #67E8F9; }
+      .title { font: 850 34px Inter, Segoe UI, Arial, sans-serif; fill: #FFFFFF; }
+      .subtitle { font: 600 15px Inter, Segoe UI, Arial, sans-serif; fill: #B8D4E8; }
+      .step { font: 850 17px Inter, Segoe UI, Arial, sans-serif; fill: #F8FAFC; }
+      .small { font: 650 12px Inter, Segoe UI, Arial, sans-serif; fill: #B8D4E8; }
+      .chip { font: 800 11px Inter, Segoe UI, Arial, sans-serif; fill: #E2E8F0; }
+      .dash { stroke-dasharray: 14 12; animation: dash 10s linear infinite; }
+      .pulse { animation: pulse 2.6s ease-in-out infinite; transform-origin: center; }
+      @keyframes dash { to { stroke-dashoffset: -156; } }
+      @keyframes pulse { 0%, 100% { opacity: .78; transform: scale(1); } 50% { opacity: 1; transform: scale(1.08); } }
     </style>
   </defs>
 
-  <rect width="1200" height="330" rx="24" fill="url(#panel)"/>
-  <path d="M0 260 C190 215 302 278 452 246 C613 212 661 124 839 122 C1008 120 1074 191 1200 156" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="44"/>
-  <path d="M0 84 C212 124 300 66 446 96 C607 130 688 217 850 204 C1019 190 1079 86 1200 112" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="36"/>
+  <rect width="1200" height="360" rx="24" fill="url(#panel)"/>
+  <path d="M-20 276 C126 210 244 295 406 238 C584 176 693 120 879 156 C1021 184 1106 234 1220 188" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="70"/>
+  <path d="M-16 94 C150 141 282 72 446 112 C613 153 685 229 868 205 C1012 185 1090 94 1220 118" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="48"/>
 
-  <text x="58" y="66" fill="#67E8F9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">JANUARY 2026 FORWARD</text>
-  <text x="58" y="104" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="850">GitHub delivery loop</text>
-  <text x="58" y="134" fill="#B8D4E8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Readable commits. Reviewable pull requests. CI-backed releases. Public work that compounds.</text>
+  <text x="58" y="60" class="eyebrow">JANUARY 2026 FORWARD</text>
+  <text x="58" y="104" class="title">GitHub delivery board</text>
+  <text x="58" y="134" class="subtitle">A simple public signal: focused work, readable commits, reviewable pull requests, checks, releases, and community attention.</text>
 
-  <path class="flow" d="M210 184 C294 108 381 109 452 164 C514 212 570 211 640 166 C712 120 790 121 852 172 C916 225 996 214 1060 156" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
-  <path d="M210 184 C294 108 381 109 452 164 C514 212 570 211 640 166 C712 120 790 121 852 172 C916 225 996 214 1060 156" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="12" stroke-linecap="round"/>
+  <path class="dash" d="M116 228 H1084" stroke="url(#rail)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M116 228 H1084" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="14" stroke-linecap="round"/>
 
-  <g class="node">
-    <circle cx="210" cy="184" r="18" fill="#22C55E"/>
-    <circle cx="210" cy="184" r="7" fill="#052E16"/>
-    <text class="label" x="154" y="235">Issue</text>
-    <text class="small" x="126" y="257">scope the work</text>
+  <g filter="url(#shadow)">
+    <g transform="translate(58 174)">
+      <rect width="142" height="120" rx="18" fill="#0E1F2C" stroke="#22C55E" stroke-opacity="0.42"/>
+      <circle class="pulse" cx="71" cy="34" r="16" fill="#22C55E"/>
+      <text x="47" y="67" class="step">Issue</text>
+      <text x="31" y="90" class="small">scope</text>
+      <text x="70" y="90" class="small">first</text>
+    </g>
+
+    <g transform="translate(217 174)">
+      <rect width="142" height="120" rx="18" fill="#0E1F2C" stroke="#38BDF8" stroke-opacity="0.42"/>
+      <circle cx="71" cy="34" r="16" fill="#38BDF8"/>
+      <text x="43" y="67" class="step">Branch</text>
+      <text x="28" y="90" class="small">one clear</text>
+      <text x="84" y="90" class="small">path</text>
+    </g>
+
+    <g transform="translate(376 174)">
+      <rect width="142" height="120" rx="18" fill="#0E1F2C" stroke="#FDE047" stroke-opacity="0.42"/>
+      <circle class="pulse" cx="71" cy="34" r="16" fill="#FDE047"/>
+      <text x="39" y="67" class="step">Commit</text>
+      <text x="26" y="90" class="small">small readable</text>
+      <text x="52" y="108" class="small">changes</text>
+    </g>
+
+    <g transform="translate(535 174)">
+      <rect width="142" height="120" rx="18" fill="#0E1F2C" stroke="#A78BFA" stroke-opacity="0.42"/>
+      <circle cx="71" cy="34" r="16" fill="#A78BFA"/>
+      <text x="60" y="67" class="step">PR</text>
+      <text x="30" y="90" class="small">reviewable</text>
+      <text x="48" y="108" class="small">work</text>
+    </g>
+
+    <g transform="translate(694 174)">
+      <rect width="142" height="120" rx="18" fill="#0E1F2C" stroke="#34D399" stroke-opacity="0.42"/>
+      <circle class="pulse" cx="71" cy="34" r="16" fill="#34D399"/>
+      <text x="61" y="67" class="step">CI</text>
+      <text x="40" y="90" class="small">tests and</text>
+      <text x="43" y="108" class="small">checks</text>
+    </g>
+
+    <g transform="translate(853 174)">
+      <rect width="142" height="120" rx="18" fill="#0E1F2C" stroke="#FB7185" stroke-opacity="0.42"/>
+      <circle cx="71" cy="34" r="16" fill="#FB7185"/>
+      <text x="36" y="67" class="step">Release</text>
+      <text x="30" y="90" class="small">ship and</text>
+      <text x="50" y="108" class="small">watch</text>
+    </g>
+
+    <g transform="translate(1012 174)">
+      <rect width="142" height="120" rx="18" fill="#0E1F2C" stroke="#F59E0B" stroke-opacity="0.42"/>
+      <circle class="pulse" cx="71" cy="34" r="16" fill="#F59E0B"/>
+      <text x="49" y="67" class="step">Stars</text>
+      <text x="23" y="90" class="small">community</text>
+      <text x="50" y="108" class="small">signal</text>
+    </g>
   </g>
 
-  <g class="node">
-    <circle cx="360" cy="133" r="18" fill="#38BDF8"/>
-    <circle cx="360" cy="133" r="7" fill="#082F49"/>
-    <text class="label" x="314" y="82">Branch</text>
-    <text class="small" x="283" y="104">clear direction</text>
-  </g>
-
-  <g class="node pulse">
-    <circle cx="508" cy="198" r="20" fill="#FDE047"/>
-    <circle cx="508" cy="198" r="7" fill="#422006"/>
-    <text class="label" x="464" y="250">Commit</text>
-    <text class="small" x="430" y="272">small, readable steps</text>
-  </g>
-
-  <g class="node">
-    <circle cx="640" cy="166" r="18" fill="#A78BFA"/>
-    <circle cx="640" cy="166" r="7" fill="#2E1065"/>
-    <text class="label" x="610" y="116">PR</text>
-    <text class="small" x="560" y="138">reviewable change</text>
-  </g>
-
-  <g class="node pulse" style="animation-delay: .7s">
-    <circle cx="792" cy="135" r="19" fill="#34D399"/>
-    <circle cx="792" cy="135" r="7" fill="#064E3B"/>
-    <text class="label" x="762" y="86">CI</text>
-    <text class="small" x="711" y="108">tests and checks</text>
-  </g>
-
-  <g class="node">
-    <circle cx="918" cy="210" r="18" fill="#FB7185"/>
-    <circle cx="918" cy="210" r="7" fill="#4C0519"/>
-    <text class="label" x="875" y="262">Release</text>
-    <text class="small" x="839" y="284">ship, watch, improve</text>
-  </g>
-
-  <g class="node pulse" style="animation-delay: 1.2s">
-    <circle cx="1060" cy="156" r="21" fill="#F59E0B"/>
-    <text x="1052" y="164" fill="#111827" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="900">*</text>
-    <text class="label" x="1016" y="104">Stars</text>
-    <text class="small" x="980" y="126">community signal</text>
-  </g>
-
-  <g transform="translate(58 252)">
-    <rect x="0" y="0" width="174" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
-    <text x="24" y="25" class="small" fill="#FFFFFF">Git discipline</text>
-    <rect x="190" y="0" width="194" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
-    <text x="214" y="25" class="small" fill="#FFFFFF">GitHub collaboration</text>
-    <rect x="400" y="0" width="178" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
-    <text x="424" y="25" class="small" fill="#FFFFFF">Actions + reviews</text>
+  <g transform="translate(58 314)">
+    <rect width="186" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="24" y="20" class="chip">Git discipline</text>
+    <rect x="204" width="228" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="228" y="20" class="chip">GitHub collaboration</text>
+    <rect x="450" width="202" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="474" y="20" class="chip">Pull requests and CI</text>
+    <rect x="670" width="218" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="694" y="20" class="chip">Stars as public signal</text>
   </g>
 </svg>
