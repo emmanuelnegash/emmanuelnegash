@@ -161,7 +161,7 @@ That is the standard I aim for: small enough changes to review, strong enough ar
 As of **June 7, 2026**, my GitHub contribution calendar shows **2,121 contributions in 2026**. I want this section to show the work directly: daily activity, monthly volume, weekly momentum, and repositories that are part of the current engineering story.
 
 <p align="center">
-  <img src="assets/github-activity-2026.svg" alt="2026 GitHub activity graph with contribution heatmap, monthly bars, weekly trend, and active repositories" width="100%" />
+  <img src="assets/github-activity-2026-v2.svg" alt="2026 GitHub activity graph with contribution heatmap, monthly bars, weekly trend, and active repositories" width="100%" />
 </p>
 
 ## Public Edge
