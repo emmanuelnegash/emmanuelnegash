@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Amanuel Negash Tiruneh - Senior Full-Stack Software Engineer" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Amanuel Negash Tiruneh - Full-Stack Software Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
   </a>
 </p>
 
-I am a **Senior Full-Stack Software Engineer** building the kind of systems companies need now: AI-native product experiences, dependable backend platforms, secure cloud delivery, and interfaces that help people move through complex work with confidence.
+I am a **Full-Stack Software Engineer** building the kind of systems companies need now: AI-native product experiences, dependable backend platforms, secure cloud delivery, and interfaces that help people move through complex work with confidence.
 
 My sweet spot is not one layer. It is the whole path from idea to production: understand the workflow, design the API, model the data, build the interface, connect the agent, add the queue, secure the boundary, observe the system, and keep improving it after launch.
 
 ## 2026 Focus
 
-From **January 2026 forward**, my public engineering story is centered on agentic AI and modern full-stack product systems.
+From **January 2026 forward**, I am shaping my public engineering work around one direction: useful AI products backed by reliable software.
 
-I am focused on AI agents that can use tools, retrieve private context, remember workflow state, respect permissions, ask for approval, and leave behind enough trace data that engineers and users can understand what happened. I am also focused on the production side of that promise: APIs that do not drift, queues that absorb pressure, dashboards that reveal truth, and cloud systems that can be operated by a real team.
+I care about agents that are more than chat boxes. They should read the right context, call the right tools, pause for approval when the work is sensitive, and leave a clear trail for the user and the engineer. Around that, I care about the full product: clean interfaces, steady APIs, queues, data, tests, logs, and deployment.
 
 <p align="center">
   <img src="assets/agentic-flow.svg" alt="Agentic full-stack delivery flow" width="100%" />
@@ -30,7 +30,7 @@ I am focused on AI agents that can use tools, retrieve private context, remember
 
 ## Roles I Am Built For
 
-**Senior Full-Stack Software Engineer**  
+**Full-Stack Software Engineer**  
 Own product features end to end: product UX, React/Next.js or mobile surfaces, backend APIs, data models, authentication, testing, deployment, and production follow-through.
 
 **AI Product Engineer / Agentic AI Engineer**  
@@ -115,6 +115,8 @@ Ship on AWS with containers, serverless, IAM/KMS, infrastructure as code, monito
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
@@ -128,6 +130,26 @@ My background includes production software work in agriculture, data exchange, r
 
 I bring the depth expected from backend/platform roles and the range expected from full-stack roles. I can work close to the database, close to the user, and close to the deployment pipeline. That combination is where AI product engineering becomes real.
 
+## Selected Project Portfolio
+
+I keep my portfolio selective. Each project below shows a different kind of engineering range: AI product thinking, backend depth, cloud reliability, data movement, mobile/product UX, and systems that need trust.
+
+<p align="center">
+  <img src="assets/project-portfolio.svg" alt="Selected project portfolio across professional platforms and product-lab systems" width="100%" />
+</p>
+
+**Professional platforms**
+
+- **Farmer.Chat / FarmchatAI**: AI advisory platform work at scale, with FastAPI, Node.js, Next.js analytics, AWS ECS/Lambda/S3/SQS, Terraform, GitHub Actions, reliability patterns, and cost-aware operations.
+- **FarmStack data exchange**: distributed microservices for secure partner data exchange, using Java, Python, Node.js, OAuth2/JWT, Kafka, RabbitMQ, PostgreSQL, Cassandra, OpenSearch, Prometheus, Grafana, and Sentry.
+- **Farmer Registry Platform**: offline-first registry workflows with Django, PostgreSQL, Redis, RabbitMQ/Celery, OpenSearch, pgvector, audit logs, role-aware access, Docker/Kubernetes, and AWS delivery.
+
+**Product lab and public edge**
+
+- **Etharon AI Executive Assistant**: agentic assistant architecture with workflow state, approval gates, Postgres/Drizzle, Redis/BullMQ queues, transactional outbox patterns, reconciliation workers, and mobile/admin surfaces.
+- **Logistics Pricing Platform**: quote-engine and mobile workflow with FastAPI, Expo, React Native, PostGIS, Redis, production API readiness, pricing parity tests, maps, weather, and real deployment constraints.
+- **Civic and community systems**: evidence dashboards, public-readiness gates, manager approval flows, community-finance workflows, Next.js/Java surfaces, Oracle Cloud deployment practice, CI/CD, and verification-heavy delivery.
+
 ## Contributor-Grade Delivery
 
 The best engineering teams do not only need someone who can write code. They need someone who can make work easier to understand, review, ship, and operate.
@@ -136,23 +158,29 @@ That is the standard I aim for: small enough changes to review, strong enough ar
 
 ## GitHub Signal
 
+I am treating **January 2026 forward** as the public baseline for my GitHub story: Git discipline, focused commits, reviewable pull requests, CI-backed delivery, and projects that make the engineering direction easy to understand.
+
+<p align="center">
+  <img src="assets/git-2026-flow.svg" alt="2026 Git and GitHub delivery loop" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emmanuelnegash&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=Full-Stack%20%2B%20AI%20Engineering%20Signal" alt="Amanuel's GitHub stats" />
 </p>
 
 ## Public Edge
 
-Some of my strongest work is private or still being shaped in product-lab repositories. The public edge shows pieces of the larger pattern:
+When recruiters open public repositories first, these are the small but useful windows into the larger pattern:
 
-- [PDFDB-Ask-RAG](https://github.com/emmanuelnegash/PDFDB-Ask-RAG): retrieval over documents and database-backed knowledge
-- [ndtc-backend-submission](https://github.com/emmanuelnegash/ndtc-backend-submission): TypeScript full-stack campaign tracker
-- [Longest-Substring-Visualization](https://github.com/emmanuelnegash/Longest-Substring-Visualization): visual algorithm reasoning
-- [EQUB](https://github.com/emmanuelnegash/EQUB): community finance product thinking
+- [PDFDB-Ask-RAG](https://github.com/emmanuelnegash/PDFDB-Ask-RAG): RAG over PDFs and database-backed knowledge.
+- [ndtc-backend-submission](https://github.com/emmanuelnegash/ndtc-backend-submission): TypeScript full-stack campaign tracker with Next.js, Express, REST APIs, and SQLite.
+- [Longest-Substring-Visualization](https://github.com/emmanuelnegash/Longest-Substring-Visualization): visual algorithm reasoning.
+- [EQUB](https://github.com/emmanuelnegash/EQUB): community-finance product thinking.
 
 ## What I Want To Build Next
 
 I want to build AI-heavy products where the work is real: agents that use tools, systems that remember state, dashboards that reveal truth, and backend platforms that make intelligence dependable.
 
-I am open to senior full-stack, backend/platform, AI product engineering, cloud-native, and distributed-systems roles.
+I am open to full-stack software engineering, backend/platform, AI product engineering, cloud-native, and distributed-systems roles.
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/amanuel-negash-tiruneh/) or at [amanuel.ng@hotmail.com](mailto:amanuel.ng@hotmail.com).
