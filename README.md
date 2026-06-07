@@ -161,7 +161,7 @@ That is the standard I aim for: small enough changes to review, strong enough ar
 I am treating **January 2026 forward** as the public baseline for my GitHub story: Git discipline, focused commits, reviewable pull requests, CI-backed delivery, and projects that make the engineering direction easy to understand.
 
 <p align="center">
-  <img src="assets/git-2026-flow.svg" alt="2026 Git and GitHub delivery loop" width="100%" />
+  <img src="assets/git-2026-delivery-board.svg" alt="2026 Git and GitHub delivery board" width="100%" />
 </p>
 
 <p align="center">
